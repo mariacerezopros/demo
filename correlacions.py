@@ -1,10 +1,4 @@
 import streamlit as st
-import numpy as np
-import pickle
-import xgboost
-import pandas as pd
-import shap
-from streamlit_shap import st_shap
 
 def correlacions():
     st.header('Correlacions')
